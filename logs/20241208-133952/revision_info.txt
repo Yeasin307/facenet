@@ -1,0 +1,7 @@
+arguments: src/train_tripletloss.py --logs_base_dir E:\Bondstein\facenet\logs --models_base_dir E:\Bondstein\facenet\trained_model --data_dir E:\Bondstein\facenet\dataset_mtcnn --image_size 160 --model_def models.inception_resnet_v1 --lfw_dir '' --optimizer RMSPROP --learning_rate 0.01 --weight_decay 1e-4 --max_nrof_epochs 10
+--------------------
+tensorflow version: 1.7.0
+--------------------
+git hash: b'096ed770f163957c1e56efa7feeb194773920f6e'
+--------------------
+b'diff --git a/src/align/detect_face.py b/src/align/detect_face.py\nindex 7f98ca7..8c0b61d 100644\n--- a/src/align/detect_face.py\n+++ b/src/align/detect_face.py\n@@ -82,7 +82,7 @@ class Network(object):\n         session: The current TensorFlow session\n         ignore_missing: If true, serialized weights for missing layers are ignored.\n         """\n-        data_dict = np.load(data_path, encoding=\'latin1\').item() #pylint: disable=no-member\n+        data_dict = np.load(data_path, encoding=\'latin1\', allow_pickle=True).item() #pylint: disable=no-member\n \n         for op_name in data_dict:\n             with tf.variable_scope(op_name, reuse=True):'

@@ -1,0 +1,136 @@
+E:\Bondstein\facenet\dataset_mtcnn\A.H.M. Annur\entry 2024-01-24 16-28-09-606.png 0 0 109 145
+E:\Bondstein\facenet\dataset_mtcnn\A.H.M. Annur\entry 2024-01-24 16-28-10-249.png 0 0 134 184
+E:\Bondstein\facenet\dataset_mtcnn\A.H.M. Annur\entry 2024-01-24 16-28-10-688.png 0 0 141 192
+E:\Bondstein\facenet\dataset_mtcnn\A.H.M. Annur\entry 2024-01-24 16-28-10-727.png 0 0 141 192
+E:\Bondstein\facenet\dataset_mtcnn\A.H.M. Annur\entry 2024-01-24 16-28-19-246.png 0 0 146 204
+E:\Bondstein\facenet\dataset_mtcnn\A.N.M. Sajedul Alam\entry 2024-01-28 15-41-14-942.png 0 0 111 136
+E:\Bondstein\facenet\dataset_mtcnn\A.N.M. Sajedul Alam\entry 2024-01-28 15-49-08-036.png 0 0 60 74
+E:\Bondstein\facenet\dataset_mtcnn\A.N.M. Sajedul Alam\entry 2024-01-28 15-49-27-355.png 0 0 129 157
+E:\Bondstein\facenet\dataset_mtcnn\A.N.M. Sajedul Alam\entry 2024-01-28 15-49-36-280.png 0 0 126 149
+E:\Bondstein\facenet\dataset_mtcnn\A.N.M. Sajedul Alam\entry 2024-01-28 15-49-36-521.png 0 0 125 151
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-24-442.png 0 0 68 87
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-24-443.png 0 0 68 87
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-36-080.png 0 0 91 107
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-36-121.png 0 0 92 109
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-36-202.png 0 0 95 112
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-36-961.png 0 0 130 155
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-24 16-32-37-000.png 0 0 131 156
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-28 14-30-59-981.png 0 0 60 79
+E:\Bondstein\facenet\dataset_mtcnn\Ariful Islam\entry 2024-01-28 14-31-00-460.png 0 0 61 78
+E:\Bondstein\facenet\dataset_mtcnn\Ashfaqul Haque\image37.png 0 0 140 176
+E:\Bondstein\facenet\dataset_mtcnn\Ashfaqul Haque\image38.png 0 0 141 178
+E:\Bondstein\facenet\dataset_mtcnn\Ashfaqul Haque\image39.png 0 0 139 171
+E:\Bondstein\facenet\dataset_mtcnn\Ashfaqul Haque\image40.png 0 0 138 170
+E:\Bondstein\facenet\dataset_mtcnn\Ashfaqul Haque\image41.png 0 0 140 178
+E:\Bondstein\facenet\dataset_mtcnn\Fahim Anwar\WhatsApp Image 2024-12-03 at 3.07.36 PM (1).png 27 254 776 1181
+E:\Bondstein\facenet\dataset_mtcnn\Fahim Anwar\WhatsApp Image 2024-12-03 at 3.07.36 PM (2).png 99 121 796 1036
+E:\Bondstein\facenet\dataset_mtcnn\Fahim Anwar\WhatsApp Image 2024-12-03 at 3.07.36 PM (3).png 0 293 683 1105
+E:\Bondstein\facenet\dataset_mtcnn\Fahim Anwar\WhatsApp Image 2024-12-03 at 3.07.36 PM (4).png 110 180 756 1146
+E:\Bondstein\facenet\dataset_mtcnn\Fahim Anwar\WhatsApp Image 2024-12-03 at 3.07.36 PM.png 117 188 848 1052
+E:\Bondstein\facenet\dataset_mtcnn\Mahfuzur Rahman\entry 2024-01-24 16-30-50-400.png 0 0 109 149
+E:\Bondstein\facenet\dataset_mtcnn\Mahfuzur Rahman\entry 2024-01-24 16-30-50-628.png 0 0 109 145
+E:\Bondstein\facenet\dataset_mtcnn\Mahfuzur Rahman\entry 2024-01-24 16-30-50-989.png 0 0 111 148
+E:\Bondstein\facenet\dataset_mtcnn\Mahfuzur Rahman\entry 2024-01-24 16-30-54-187.png 0 0 109 153
+E:\Bondstein\facenet\dataset_mtcnn\Mahfuzur Rahman\entry 2024-01-24 16-30-54-468.png 0 0 112 153
+E:\Bondstein\facenet\dataset_mtcnn\Mahmud Hasan\entry 2024-01-24 16-36-00-182.png 0 0 85 113
+E:\Bondstein\facenet\dataset_mtcnn\Mahmud Hasan\entry 2024-01-24 16-36-08-942.png 0 0 87 116
+E:\Bondstein\facenet\dataset_mtcnn\Mahmud Hasan\entry 2024-01-24 16-36-09-063.png 0 0 88 113
+E:\Bondstein\facenet\dataset_mtcnn\Mahmud Hasan\entry 2024-01-24 16-36-09-104.png 0 0 87 112
+E:\Bondstein\facenet\dataset_mtcnn\Mahmud Hasan\entry 2024-01-24 16-36-12-385.png 0 0 87 119
+E:\Bondstein\facenet\dataset_mtcnn\Md Jahedul Alam\entry 2024-01-24 17-01-10-640.png 0 0 89 125
+E:\Bondstein\facenet\dataset_mtcnn\Md Jahedul Alam\entry 2024-01-24 17-01-10-675.png 0 0 91 124
+E:\Bondstein\facenet\dataset_mtcnn\Md Jahedul Alam\entry 2024-01-24 17-01-12-637.png 0 0 89 116
+E:\Bondstein\facenet\dataset_mtcnn\Md Jahedul Alam\entry 2024-01-24 17-01-14-039.png 0 0 90 117
+E:\Bondstein\facenet\dataset_mtcnn\Md Jahedul Alam\entry 2024-01-24 17-01-20-799.png 0 0 88 122
+E:\Bondstein\facenet\dataset_mtcnn\Md. Ali Yasin\entry 2024-01-24 16-22-47-046.png 0 0 79 104
+E:\Bondstein\facenet\dataset_mtcnn\Md. Ali Yasin\entry 2024-01-24 16-22-47-848.png 0 0 90 119
+E:\Bondstein\facenet\dataset_mtcnn\Md. Ali Yasin\entry 2024-01-29 12-06-28-270.png 0 0 55 68
+E:\Bondstein\facenet\dataset_mtcnn\Md. Ali Yasin\entry 2024-01-29 16-41-03-025.png 0 0 115 140
+E:\Bondstein\facenet\dataset_mtcnn\Md. Ali Yasin\entry 2024-01-29 16-41-03-064.png 0 0 114 141
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hasan Tareq\entry 2024-01-24 16-58-52-338.png 0 0 82 109
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hasan Tareq\entry 2024-01-24 16-58-52-383.png 0 0 83 111
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hasan Tareq\entry 2024-01-24 16-59-03-064.png 0 0 142 184
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hasan Tareq\entry 2024-01-24 16-59-05-059.png 0 0 144 188
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hasan Tareq\entry 2024-01-24 16-59-05-143.png 0 0 144 186
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hashmi Shihab\entry 2024-01-24 16-27-09-695.png 0 0 46 64
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hashmi Shihab\entry 2024-01-24 16-27-11-841.png 0 0 98 133
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hashmi Shihab\entry 2024-01-24 16-27-11-881.png 0 0 101 134
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hashmi Shihab\entry 2024-01-24 16-27-11-920.png 0 0 103 136
+E:\Bondstein\facenet\dataset_mtcnn\Md. Hashmi Shihab\entry 2024-01-24 16-27-12-122.png 0 0 115 153
+E:\Bondstein\facenet\dataset_mtcnn\Md. Jubaid Hossain\entry 2024-01-24 17-04-01-780.png 0 0 164 211
+E:\Bondstein\facenet\dataset_mtcnn\Md. Jubaid Hossain\entry 2024-01-24 17-04-04-738.png 0 0 163 214
+E:\Bondstein\facenet\dataset_mtcnn\Md. Jubaid Hossain\entry 2024-01-24 17-04-04-819.png 0 0 163 213
+E:\Bondstein\facenet\dataset_mtcnn\Md. Jubaid Hossain\entry 2024-01-24 17-04-04-820.png 0 0 163 213
+E:\Bondstein\facenet\dataset_mtcnn\Md. Jubaid Hossain\entry 2024-01-24 17-04-05-099.png 0 0 165 215
+E:\Bondstein\facenet\dataset_mtcnn\Md. Nafizul Islam\entry 2024-01-24 17-03-01-727.png 0 0 82 113
+E:\Bondstein\facenet\dataset_mtcnn\Md. Nafizul Islam\entry 2024-01-24 17-03-03-972.png 0 0 121 167
+E:\Bondstein\facenet\dataset_mtcnn\Md. Nafizul Islam\entry 2024-01-24 17-03-08-051.png 0 0 122 160
+E:\Bondstein\facenet\dataset_mtcnn\Md. Najmul Islam\entry 2024-01-24 17-15-45-299.png 0 0 82 109
+E:\Bondstein\facenet\dataset_mtcnn\Md. Najmul Islam\entry 2024-01-24 17-15-45-496.png 0 0 82 109
+E:\Bondstein\facenet\dataset_mtcnn\Md. Najmul Islam\entry 2024-01-24 17-15-48-713.png 0 0 82 110
+E:\Bondstein\facenet\dataset_mtcnn\Md. Najmul Islam\entry 2024-01-28 14-17-29-524.png 0 0 97 128
+E:\Bondstein\facenet\dataset_mtcnn\Md. Najmul Islam\entry 2024-01-28 14-17-36-127.png 0 0 109 144
+E:\Bondstein\facenet\dataset_mtcnn\Md. Saddam Hossain\entry 2024-01-24 17-12-01-597.png 0 0 76 103
+E:\Bondstein\facenet\dataset_mtcnn\Md. Saddam Hossain\entry 2024-01-24 17-12-08-913.png 0 0 152 209
+E:\Bondstein\facenet\dataset_mtcnn\Md. Saddam Hossain\entry 2024-01-24 17-12-08-957.png 0 0 151 209
+E:\Bondstein\facenet\dataset_mtcnn\Md. Saddam Hossain\entry 2024-01-24 17-12-11-372.png 0 0 154 209
+E:\Bondstein\facenet\dataset_mtcnn\Md. Saddam Hossain\entry 2024-01-24 17-12-11-392.png 0 0 153 209
+E:\Bondstein\facenet\dataset_mtcnn\Md. Shafiqul Islam\entry 2024-01-24 17-06-37-449.png 0 0 88 122
+E:\Bondstein\facenet\dataset_mtcnn\Md. Shafiqul Islam\entry 2024-01-24 17-06-37-477.png 0 0 90 123
+E:\Bondstein\facenet\dataset_mtcnn\Md. Shafiqul Islam\entry 2024-01-24 17-06-37-518.png 0 0 92 125
+E:\Bondstein\facenet\dataset_mtcnn\Md. Shafiqul Islam\entry 2024-01-24 17-06-37-557.png 0 0 95 129
+E:\Bondstein\facenet\dataset_mtcnn\Md. Shafiqul Islam\entry 2024-01-24 17-06-38-241.png 0 0 127 170
+E:\Bondstein\facenet\dataset_mtcnn\Md. Zahid Ullah\entry 2024-01-24 17-08-27-282.png 0 0 122 161
+E:\Bondstein\facenet\dataset_mtcnn\Md. Zahid Ullah\entry 2024-01-24 17-08-27-307.png 0 0 122 161
+E:\Bondstein\facenet\dataset_mtcnn\Md. Zahid Ullah\entry 2024-01-24 17-08-27-886.png 0 0 121 164
+E:\Bondstein\facenet\dataset_mtcnn\Md. Zahid Ullah\entry 2024-01-24 17-08-47-623.png 0 0 86 121
+E:\Bondstein\facenet\dataset_mtcnn\Md. Zahid Ullah\entry 2024-01-24 17-08-52-451.png 0 0 152 198
+E:\Bondstein\facenet\dataset_mtcnn\Mohammad Mamun Sarker\entry 2024-01-24 17-02-16-563.png 0 0 89 118
+E:\Bondstein\facenet\dataset_mtcnn\Mohammad Mamun Sarker\entry 2024-01-24 17-02-17-043.png 0 0 111 142
+E:\Bondstein\facenet\dataset_mtcnn\Mohammad Mamun Sarker\entry 2024-01-24 17-02-17-683.png 0 0 130 169
+E:\Bondstein\facenet\dataset_mtcnn\Mohammad Mamun Sarker\entry 2024-01-24 17-02-18-285.png 0 0 137 177
+E:\Bondstein\facenet\dataset_mtcnn\Mohammad Mamun Sarker\entry 2024-01-24 17-02-20-564.png 0 0 141 175
+E:\Bondstein\facenet\dataset_mtcnn\Musfick Jamil\entry 2024-01-24 16-22-05-301.png 0 0 67 94
+E:\Bondstein\facenet\dataset_mtcnn\Musfick Jamil\entry 2024-01-24 16-22-08-083.png 0 0 69 95
+E:\Bondstein\facenet\dataset_mtcnn\Musfick Jamil\entry 2024-01-24 16-22-09-161.png 0 0 120 159
+E:\Bondstein\facenet\dataset_mtcnn\Musfick Jamil\entry 2024-01-24 16-22-09-331.png 0 0 133 178
+E:\Bondstein\facenet\dataset_mtcnn\Musfick Jamil\entry 2024-01-24 16-22-09-455.png 0 0 148 200
+E:\Bondstein\facenet\dataset_mtcnn\Nazmus Sakib\entry 2024-01-24 17-10-34-998.png 0 0 83 114
+E:\Bondstein\facenet\dataset_mtcnn\Nazmus Sakib\entry 2024-01-24 17-10-35-023.png 0 0 82 116
+E:\Bondstein\facenet\dataset_mtcnn\Nazmus Sakib\entry 2024-01-24 17-10-35-747.png 0 0 106 147
+E:\Bondstein\facenet\dataset_mtcnn\Nazmus Sakib\entry 2024-01-24 17-10-36-306.png 0 0 132 185
+E:\Bondstein\facenet\dataset_mtcnn\Nazmus Sakib\entry 2024-01-24 17-10-40-425.png 0 0 151 213
+E:\Bondstein\facenet\dataset_mtcnn\Nikash Chandra Madhu\entry 2024-01-24 17-08-08-725.png 0 0 82 115
+E:\Bondstein\facenet\dataset_mtcnn\Nikash Chandra Madhu\entry 2024-01-24 17-08-09-724.png 0 0 82 115
+E:\Bondstein\facenet\dataset_mtcnn\Nikash Chandra Madhu\entry 2024-01-24 17-08-13-085.png 0 0 87 124
+E:\Bondstein\facenet\dataset_mtcnn\Nikash Chandra Madhu\entry 2024-01-24 17-08-16-326.png 0 0 86 121
+E:\Bondstein\facenet\dataset_mtcnn\Nikash Chandra Madhu\entry 2024-01-24 17-08-18-725.png 0 0 86 120
+E:\Bondstein\facenet\dataset_mtcnn\Rabbi Nur Rashid\entry 2024-01-24 17-09-52-458.png 0 0 95 123
+E:\Bondstein\facenet\dataset_mtcnn\Rabbi Nur Rashid\entry 2024-01-24 17-09-52-481.png 0 0 98 128
+E:\Bondstein\facenet\dataset_mtcnn\Rabbi Nur Rashid\entry 2024-01-24 17-09-54-138.png 0 0 155 193
+E:\Bondstein\facenet\dataset_mtcnn\Rabbi Nur Rashid\entry 2024-01-28 14-12-34-814.png 0 0 198 239
+E:\Bondstein\facenet\dataset_mtcnn\Rabbi Nur Rashid\entry 2024-01-28 14-18-00-329.png 0 0 130 165
+E:\Bondstein\facenet\dataset_mtcnn\Rasha Rabbani Ador\entry 2024-01-24 17-11-14-266.png 0 0 126 154
+E:\Bondstein\facenet\dataset_mtcnn\Rasha Rabbani Ador\entry 2024-01-24 17-11-15-320.png 0 0 136 165
+E:\Bondstein\facenet\dataset_mtcnn\Rasha Rabbani Ador\entry 2024-01-28 14-11-50-488.png 0 0 95 125
+E:\Bondstein\facenet\dataset_mtcnn\Rasha Rabbani Ador\entry 2024-01-28 14-11-51-181.png 0 0 128 161
+E:\Bondstein\facenet\dataset_mtcnn\Rasha Rabbani Ador\entry 2024-01-28 14-11-51-609.png 0 0 156 194
+E:\Bondstein\facenet\dataset_mtcnn\Salman Resvee\entry 2024-01-24 16-29-10-613.png 0 0 107 128
+E:\Bondstein\facenet\dataset_mtcnn\Salman Resvee\entry 2024-01-24 16-29-12-462.png 0 0 113 136
+E:\Bondstein\facenet\dataset_mtcnn\Salman Resvee\entry 2024-01-24 16-29-32-615.png 0 0 86 112
+E:\Bondstein\facenet\dataset_mtcnn\Salman Resvee\entry 2024-01-24 16-29-34-058.png 0 0 83 107
+E:\Bondstein\facenet\dataset_mtcnn\Salman Resvee\entry 2024-01-24 16-29-37-098.png 0 0 135 163
+E:\Bondstein\facenet\dataset_mtcnn\Shahed Mahmud Meraj\entry 2024-01-24 17-14-33-061.png 0 0 74 98
+E:\Bondstein\facenet\dataset_mtcnn\Shahed Mahmud Meraj\entry 2024-01-24 17-14-33-100.png 0 0 73 97
+E:\Bondstein\facenet\dataset_mtcnn\Shahed Mahmud Meraj\entry 2024-01-24 17-14-36-513.png 0 0 105 143
+E:\Bondstein\facenet\dataset_mtcnn\Shahed Mahmud Meraj\entry 2024-01-24 17-14-38-382.png 0 0 119 162
+E:\Bondstein\facenet\dataset_mtcnn\Shakila Sharker\entry 2024-01-24 17-16-26-463.png 0 0 67 89
+E:\Bondstein\facenet\dataset_mtcnn\Shakila Sharker\entry 2024-01-24 17-16-28-066.png 0 0 66 93
+E:\Bondstein\facenet\dataset_mtcnn\Shakila Sharker\entry 2024-01-24 17-16-30-707.png 0 0 93 120
+E:\Bondstein\facenet\dataset_mtcnn\Shakila Sharker\entry 2024-01-24 17-16-39-587.png 0 0 89 117
+E:\Bondstein\facenet\dataset_mtcnn\Shakila Sharker\entry 2024-01-24 17-16-39-636.png 0 0 90 117
+E:\Bondstein\facenet\dataset_mtcnn\Syeda Shotorupa Zafar\entry 2024-01-28 16-01-24-277.png 0 0 64 90
+E:\Bondstein\facenet\dataset_mtcnn\Syeda Shotorupa Zafar\entry 2024-01-28 16-01-27-478.png 0 0 90 119
+E:\Bondstein\facenet\dataset_mtcnn\Syeda Shotorupa Zafar\entry 2024-01-28 16-01-34-881.png 0 0 173 230
+E:\Bondstein\facenet\dataset_mtcnn\Syeda Shotorupa Zafar\entry 2024-01-28 16-01-35-480.png 0 0 169 233
+E:\Bondstein\facenet\dataset_mtcnn\Syeda Shotorupa Zafar\entry 2024-01-28 16-01-52-563.png 0 0 118 151
